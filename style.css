@@ -59,4 +59,9 @@ body
    position: relative;
    margin-top: -140px;
    padding: 10px 15px;
+   text-align: center;
+   color: #1111;
+   visibility: hidden;
+   opacity: 0;
+
 }
