@@ -54,7 +54,7 @@ body
     max-width: 100%;
     border-radius: 4px;
 }
-.container .card .content
+.container .profile .content
 {
    position: relative;
    margin-top: -140px;
@@ -64,4 +64,11 @@ body
    visibility: hidden;
    opacity: 0;
    transition: 0.3s ease-in-out;
+}
+.container .profile:hover .content
+{
+    visibility: visible;
+    opacity: 1;
+    margin-top: -40px;
+    transition-delay: 0,3s;
 }
