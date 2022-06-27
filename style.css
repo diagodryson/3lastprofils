@@ -71,3 +71,8 @@ body
     margin-top: -40px;
     transition-delay: 0,3s;
 }
+
+.container .profile .button:hover
+{
+    visibility: ;
+}
