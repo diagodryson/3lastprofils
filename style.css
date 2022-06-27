@@ -63,5 +63,5 @@ body
    color: #1111;
    visibility: hidden;
    opacity: 0;
-
+   transition: 0.3s ease-in-out;
 }
