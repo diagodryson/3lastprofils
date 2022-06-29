@@ -1,6 +1,6 @@
 ## 
 
-# 3 last profils
+# <p align="center">3 last profils</p>
 
 ![Project Image](img/screenshot.png)
 
